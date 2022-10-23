@@ -1,0 +1,47 @@
+body{
+  background-color:rgb(236, 237, 236);
+}
+#container{
+
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    height: 400px;
+    width: 300px;
+   background-image: url("paper.gif");
+    background-repeat: no-repeat;
+    background-size:100%;
+  border-radius: 10px;
+  margin-top: 20vh;
+  margin-left: 35vw;
+  background-color: white;
+}
+#empty{
+ 
+  height: 150px;
+  width: 300px;
+}
+#text{
+  color: grey;
+  margin-left: 10px;
+}
+#img{
+  height: 50px;
+  width: 50px;
+  margin-left: 10px;
+  border-radius: 30px;
+}
+#footer{
+  display: flex;
+}
+#name{
+  margin-left: 5px;
+}
+#date{
+  color: grey;
+  font-size: smaller;
+}
+h4{
+  margin-left: 10px;
+  margin-bottom: 0%;
+}
